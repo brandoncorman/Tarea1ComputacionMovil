@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectoUtem0122</string>
+    <string name="welcome">INICIO</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="tituloSecond">Esta es la segunda activity</string>
+    <string name="volver">Volver</string>
+</resources>

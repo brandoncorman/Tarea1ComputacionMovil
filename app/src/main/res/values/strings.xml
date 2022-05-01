@@ -1,7 +1,12 @@
 <resources>
-    <string name="app_name">ProjectoUtem0122</string>
+    <string name="app_name">Tarea 1</string>
     <string name="welcome">INICIO</string>
     <string name="siguiente">Siguiente</string>
     <string name="tituloSecond">Esta es la segunda activity</string>
     <string name="volver">Volver</string>
+    <string name="nombre">Nombre</string>
+    <string name="brandon_corman_genovez">Brandon Corman Genovez</string>
+    <string name="_30_04_2022">30-04-2022</string>
+    <string name="imagen_principal">Imagen Principal</string>
+    <string name="bienvenidos_a_la_segunda_activity">Bienvenidos a la segunda activity</string>
 </resources>
